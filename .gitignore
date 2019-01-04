@@ -1,4 +1,4 @@
-./mxd/*
-./result/*
-./tif/*
-./img/*
+mxd/
+result/
+tif/
+img/
