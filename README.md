@@ -13,7 +13,7 @@
 
 ## 例子
 
-![例子]()
+![例子](https://github.com/zhuang-hao-ming/automate_generation_of_road_netowrk/blob/master/example.jpg)
 
 
 ## 使用
